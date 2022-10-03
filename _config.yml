@@ -22,7 +22,7 @@ author: Some Person
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://y21232323.github.io"
+    - y21232323: "https://y21232323.github.io"
     - Learn markdown: "https://y21232323.github.io"
   Author's home: "https://y21232323.github.io"
 
